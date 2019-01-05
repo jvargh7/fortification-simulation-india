@@ -5,6 +5,8 @@ Conference: Nutrition 2018, Boston MA
 
 Jithin Sam Varghese, Rutuja Chhajed, Sumathi Swaminathan, Tinku Thomas, Vinod Kamat, Anura Kurpad  
 
+The dashboard can be viewed at https://tatanin.org/#/dashboard
+
 Objective:  
 
 To develop an interactive and intuitive web dashboard for government stakeholders, and researchers to understand the Indian nutrition scenario in terms of supply-demand (agricultural produce-food intake), health outcomes and optimum levels of priority nutrients while fortifying foods.  
