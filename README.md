@@ -5,7 +5,7 @@ Conference: Nutrition 2018, Boston MA
 
 Jithin Sam Varghese, Rutuja Chhajed, Sumathi Swaminathan, Tinku Thomas, Vinod Kamat, Anura Kurpad  
 
-The dashboard can be viewed at https://tatanin.org/#/dashboard
+The dashboard can be viewed at https://www.dashboard.nintata.res.in/#/dashboard
 
 Objective:  
 
